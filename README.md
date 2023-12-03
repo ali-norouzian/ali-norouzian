@@ -34,6 +34,8 @@
 <div style="display:flex;flex-direction:row;align-items:center;flex-start;gap:20px" width="100%">
     <img width="35" src="https://skillicons.dev/icons?i=docker" alt=""/>
     <img width="35" src="https://skillicons.dev/icons?i=rabbitmq" alt=""/>
+    <img width="35" src="https://skillicons.dev/icons?i=linux" alt=""/>
+    <img width="35" src="https://skillicons.dev/icons?i=postman" alt=""/>
     <img width="35" src="https://skillicons.dev/icons?i=github" alt=""/>
     <img width="35" src="https://skillicons.dev/icons?i=gitlab" alt=""/>
 </div>
