@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @ali-norouzian
 - 👀 I’m interested in Backend, C#, ASP.NET Core...
-<!--- - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
- - 📫 How to reach me ...
 
+## ⚡ Languages / Frameworks / Skills
 
-ali-norouzian/ali-norouzian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages
+
+<div style="display:flex;flex-direction:row;align-items:center;flex-start;gap:20px" width="100%">
+    <img width="35" src="https://skillicons.dev/icons?i=cs" alt=""/>
+    <img width="35" src="https://skillicons.dev/icons?i=go" alt=""/>
+    <img width="35" src="https://skillicons.dev/icons?i=js" alt=""/>
+</div>
+
