@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ali-norouzian
-- 👀 I’m interested in Backend, C#, ASP.NET Core...
+👋 Hi, I’m @ali-norouzian
+👀 I’m interested in Backend, C#, ASP.NET Core...
 
 ## ⚡ Languages / Frameworks / Skills
 
