@@ -47,14 +47,12 @@
         <li>
             <a href="https://github.com/ali-norouzian/aspnetmicroservices">Microservice Shopping Sample</a>
         </li>
-
         <li>Machine & Deep Learning In University
-            <ul>
+        <ul>
               <li><a href="https://github.com/ali-norouzian/SceneDetection69Percent">SceneDetection69Percent</a></li>
               <li><a href="https://github.com/ali-norouzian/SimpleSearchEngineCore">SimpleSearchEngineCore</a></li>
               <li><a href="https://github.com/ali-norouzian/CyberAttackDetection">CyberAttackDetection</a></li>
             </ul>
         </li>
-        
     </ul>
 </div>
