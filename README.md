@@ -40,4 +40,8 @@
     <img width="35" src="https://skillicons.dev/icons?i=gitlab" alt=""/>
 </div>
 
+## 📁 Projects
 
+<div style="display:flex;flex-direction:row;align-items:center;flex-start;gap:20px" width="100%">
+    <a href="https://github.com/ali-norouzian/aspnetmicroservices">Microservice Shopping Sample</a>
+</div>
