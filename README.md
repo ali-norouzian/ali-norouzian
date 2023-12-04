@@ -43,5 +43,18 @@
 ## 📁 Projects
 
 <div style="display:flex;flex-direction:row;align-items:center;flex-start;gap:20px" width="100%">
-    <a href="https://github.com/ali-norouzian/aspnetmicroservices">Microservice Shopping Sample</a>
+    <ul>
+        <li>
+            <a href="https://github.com/ali-norouzian/aspnetmicroservices">Microservice Shopping Sample</a>
+        </li>
+
+        <li>Machine & Deep Learning In University
+            <ul>
+              <li><a href="https://github.com/ali-norouzian/SceneDetection69Percent">SceneDetection69Percent</a></li>
+              <li><a href="https://github.com/ali-norouzian/SimpleSearchEngineCore">SimpleSearchEngineCore</a></li>
+              <li><a href="https://github.com/ali-norouzian/CyberAttackDetection">CyberAttackDetection</a></li>
+            </ul>
+        </li>
+        
+    </ul>
 </div>
